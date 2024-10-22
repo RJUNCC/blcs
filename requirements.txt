@@ -1,0 +1,12 @@
+requests
+scipy
+statsmodels
+scikit-learn
+pandas
+numpy
+seaborn
+matplotlib
+python-dotenv
+ipykernel
+beautifulsoup4
+selenium
