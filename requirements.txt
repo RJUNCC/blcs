@@ -10,3 +10,5 @@ python-dotenv
 ipykernel
 beautifulsoup4
 selenium
+discord.py
+openpyxl
