@@ -78,8 +78,14 @@ async def on_ready() -> None:
         # await replace_last_image(channel, '../images/goals_for_vs_team.png')  # Replace with your image path
         # await replace_last_image(channel, '../images/goals_for_vs_team.png')
         await remove_previous_image_message(channel)
+        await remove_previous_image_message(channel)
+        await remove_previous_image_message(channel)
+        await remove_previous_image_message(channel)
 
         await send_new_image(channel, "../images/goals_for_vs_team.png")
+        await send_new_image(channel, "../images/goals_against_vs_team.png")
+        await send_new_image(channel, "../images/demos_inflicted_vs_team.png")
+        await send_new_image(channel, "../images/demos_taken_vs_team.png")
 
 
 # STEP 4: HANDLING INCOMING MESSAGES

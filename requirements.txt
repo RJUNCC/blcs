@@ -12,3 +12,4 @@ beautifulsoup4
 selenium
 discord.py
 openpyxl
+altair
