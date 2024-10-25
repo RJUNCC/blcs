@@ -13,3 +13,4 @@ selenium
 discord.py
 openpyxl
 altair
+great_tables
